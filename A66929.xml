@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at Biddeford in the county of Devon, on the fifth of Novermber, 1688. By James Wood, Minister of the Gospel there.</title>
+            <author>Wood, James, minister of the Gospel.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66929</idno><idno type="EEBO-CITATION">99828883</idno>
+  <idno type="VID">33316</idno>
+  <idno type="EEBO-PROQUEST">2240865801</idno>
+  
+            <idno type="STC">Wing W3395</idno>
+            <idno type="STC">ESTC R217185</idno>
+            <idno type="PROQUEST">99828883</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828883e"/>
+            <note>(EEBO-TCP ; phase 2, no. A66929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33316)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1962:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at Biddeford in the county of Devon, on the fifth of Novermber, 1688. By James Wood, Minister of the Gospel there.</title>
+                  <author>Wood, James, minister of the Gospel.</author>
+               </titleStmt>
+               <extent>[2], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: A caveat against false teachers, from Matth. VII. 20. Wherefore by their fruits ye shall know them.</note>
+                  <note>Running title reads: A caveat against false teachers.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Matthew, VII, 20 --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33316:1"/>
+            <pb facs="tcp:33316:1"/>
+            <p>A SERMON Preach'd at BIDDEFORD, IN THE <hi>County of Devon,</hi> On the Fifth of <hi>November,</hi> 1688.</p>
+            <p>By JAMES WOOD, Minister of the Gospel there.</p>
+            <figure>
+               <figDesc>printer's ornaments</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:33316:2"/>
+            <pb n="1" facs="tcp:33316:2"/>
+            <head>A CAVEAT AGAINST <hi>False Teachers.</hi> FROM MATTH. VII. 20. <hi>Wherefore by their Fruits ye shall know them.</hi>
+            </head>
+            <p>CHRIST, in his Sermon on the Mount, before his Disciples, to the Multitude, eminently dis<g ref="char:EOLhyphen"/>charges his Prophetical Office. It is be<g ref="char:EOLhyphen"/>gun at the beginning of <hi>Chap.</hi> 5. conti<g ref="char:EOLhyphen"/>nued through <hi>Chap.</hi> 6. and ended with the end of this <hi>Chap.</hi> 7. His great work in this Sermon is to retrieve the Law from
+<pb n="2" facs="tcp:33316:3"/> the false glosses which the <hi>Pharisees</hi> had corrupted it with: Having done much this way, at <hi>vers.</hi> 15. of this <hi>Chap.</hi> (to lead you no further back for the relation of the words read) he gives them a Cau<g ref="char:EOLhyphen"/>tion to beware of false Teachers, advi<g ref="char:EOLhyphen"/>sing them to beware of such, by two Ar<g ref="char:EOLhyphen"/>guments, <hi>viz.</hi> The danger adjoyn'd, and the pernicious effect; both illustrated by a similitude: The danger, by <hi>Sheeps cloa<g ref="char:EOLhyphen"/>thing, i. e.</hi> an appearance of simplicity in words and deeds: The effect, by <hi>the ravening of Wolves.</hi>
+            </p>
+            <p>
+               <hi>In Sheeps cloathing.]</hi> 'Tis not so much in Cloath, cloathing made of Wool, shorn off the Sheep's back, as in the very Sheep's skins themselves, that they may seem sheep without. So the Apostle speaks of the true Servants of God, that they wan<g ref="char:EOLhyphen"/>dered in Sheep-skins, <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Heb.</hi> 11. 37. It seems to have been the use of the Pro<g ref="char:EOLhyphen"/>phets of the Lord to wear such. So is it spoken of <hi>Elijah, 1 Kings 19. 13. 2 Kings</hi> 2. 13. where we read Mantle; the <hi>Greek</hi> Version hath the <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> same
+<pb n="3" facs="tcp:33316:3"/> word that the Apostle useth, which they might wear, partly to shew how far they were from Pride in Apparel, (Cardinal <hi>Wolsey</hi> is said to be the first Man that brought in the wearing of Silk by the Clergy in <hi>England)</hi> partly necessitated thereto by their Poverty under Persecu<g ref="char:EOLhyphen"/>tion. And our Lord may be understood un<g ref="char:EOLhyphen"/>der this one particular of Cloathing, to in<g ref="char:EOLhyphen"/>tend all outward shews of Innocence, in Countenance, Words, and Operose Rites, especially those good words and <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> speeches mentioned by the Apostle, <hi>Rom.</hi> 16. 18. By such Garbs, and such Tongues, it seems, the false Prophets designed to deceive, <hi>Zech.</hi> 13. 4.</p>
+            <p>But how shall these false Teachers be known, that they may be shun'd? This the Lord speaks, <hi>vers. 16. by their Fruits;</hi> which he illustrates by the similitude of Shrubs and Trees, which seem to have been as Proverbial among that People: Which words are repeated in <hi>vers.</hi> 20. with the Addition of one word in the be<g ref="char:EOLhyphen"/>ginning of the Verse, which we Tran<g ref="char:EOLhyphen"/>state
+<pb n="4" facs="tcp:33316:4"/>
+               <hi>Wherefore;</hi> in <note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] <hi>Nempe igitur. Mihi idem valet quod</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Et praeter iila<g ref="char:EOLhyphen"/>tionem, babet ctiam vim con<g ref="char:EOLhyphen"/>firmandi.</hi> Bez.</note>
+               <hi>Beza's</hi> Account, speaking not only an illation, but also a confirmation of this Assertion. Hence then we may observe,</p>
+            <p>
+               <hi>Doct. That false Teachers are best known by their Fruits.</hi> This is plainly our Lord's Assertion, <hi>vers.</hi> 16. and repeated, <hi>vers.</hi> 20. Now, <hi>what can he do that cometh after the King?</hi> What need any further Testi<g ref="char:EOLhyphen"/>mony, after this full Evidence? Our work must be to enquire, first, what those Fruits are, by which these false Teachers may be known; secondly, how evidential, or plainly discovering these false Teachers, those Fruits are.</p>
+            <p>First, What are those Fruits? Their Doctrines, say <note n="e" place="margin">
+                  <hi>Ham. Smid. Pisc.</hi>
+               </note> some; their Works, say <note n="f" place="margin">
+                  <hi>Munst. Mald. Grot.</hi>
+               </note> others; both, say I; their Preach<g ref="char:EOLhyphen"/>ings and their Practises.</p>
+            <p>First, their Doctrines; we will enu<g ref="char:EOLhyphen"/>merate some few of many.</p>
+            <p>1. All Doctrines that oppugn or abase the Person or Offices of the Lord Je<g ref="char:EOLhyphen"/>sus Christ, are false Doctrines, and Dis<g ref="char:EOLhyphen"/>coveries
+<pb n="5" facs="tcp:33316:4"/> of false Teachers, 1 <hi>John 2. 22. &amp;</hi> 4. 3. The great design of God, in and by the Gospel, is to conciliate Honour to Jesus Christ, <hi>John 5. 23. &amp; 6. 27. &amp;</hi> 8. 54. To detract therefore from him, is to profess Hostility against God. The de<g ref="char:EOLhyphen"/>nying his Natures, confounding or divi<g ref="char:EOLhyphen"/>ding them in his Person; the decrying or vacating his Offices, or setting up any thing in competition with any of them, is to deny the work for which he was sent into the World, and the Office commit<g ref="char:EOLhyphen"/>ted to him by the Father, and this is <hi>Anti-Christ.</hi> If Jesus be not acknowledged to be <hi>Immanuel,</hi> the Word made Flesh, in which he ascended into Heaven, in the sight, by the attestation of his Disciples, where he sits at the Right Hand of the Majesty and Glory of the Father, in his Father's Throne, <hi>Rev.</hi> 3. 23. <note n="g" place="margin">
+                  <hi>Jos. Mede. Apost.</hi> of the latter Times, <hi>Part 1. Ch. 7. pag. (mihi) 639.</hi>
+               </note> The Power of Divine Majesty, wherein none may sit but God, and the God-man Je<g ref="char:EOLhyphen"/>sus Christ: In this glorified Nature shall he come to Judgment, having Power to Judge as the Son of Man, <hi>John</hi> 5. 27.
+<pb n="6" facs="tcp:33316:5"/>
+               <hi>Acts</hi> 17. 31. In any of these respects to deny the Person, or the Offices of Christ, as Prophet, Priest, and King, is to mi<g ref="char:EOLhyphen"/>litate against the whole Gospel; and whosoever teacheth so, whatever preten<g ref="char:EOLhyphen"/>ces he may have of Piety and Zeal, is yet a false Teacher.</p>
+            <p>Secondly, Doctrines that depress, or derogate any thing from the Grace of God, are false Doctrines. God in the Gospel hath opened the large Treasuries of his Grace; and all that he doeth to<g ref="char:EOLhyphen"/>wards Sinners in and by Christ for their Salvation, is to magnifie and exaalt this his free Grace, <hi>Ephes. 1. 6. Tit.</hi> 3. 4, 5. Kindness, Mercy, and (by a <note n="h" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> pecu<g ref="char:EOLhyphen"/>liar Name) Love to Man: Whatever in this matter of Salvation any arrogate to Man, they derogate from the Lord's free Grace. With what plainness doth the Apostles repress the insolency of Man in this thing, 1 <hi>Cor.</hi> 4. 7. Who maketh thee to differ? What hast thou, that thou dist not receive? and how proud and anti-Evangelical was that answer of
+<pb n="7" facs="tcp:33316:5"/>
+               <hi>Grevinchovius,</hi>
+               <note n="i" place="margin">
+                  <hi>Ego me ip<g ref="char:EOLhyphen"/>sum discrivi.</hi>
+               </note> I have made my self to differ? Those that talk of their Works, and are much with their <hi>haec ego feci,</hi> (this and that I have done) <hi>Luther</hi> well calls <hi>faeces, i. e.</hi> Lees, Dregs. They that preach up any thing besides the Grace of God, in contriving and effect<g ref="char:EOLhyphen"/>ing the Salvation of Sinners, are false Teachers.</p>
+            <p>Thirdly, Doctrines contrary to the conductive Principles of Men, and Chri<g ref="char:EOLhyphen"/>stians, are false Doctrines. God hath vouchsafed Men in common with other Creatures, Sense; Christians with other Men, Reason; and peculiar to them, Faith. These are principles by which we judge of things in their Sphere. The first discerning principle is Sense: to say, or preach any Doctrine that makes all the Senses of all sound Men about their proper Objects duly placed, Fallible, is to say, that no certainty can be had in any thing: Reason is the next discern<g ref="char:EOLhyphen"/>ing Principle; and though many things in Christianity may be above, and be<g ref="char:EOLhyphen"/>yond
+<pb n="8" facs="tcp:33316:6"/> natural Reasons perception, as de<g ref="char:EOLhyphen"/>pending on pure Revelation: yet to bring any Doctrine that is repugnant to Reason; as that the same thing should be, and not be, at the same time, <hi>&amp;c.</hi> is to bid defiance to the God of Reason: seeing though our Reason cannot per<g ref="char:EOLhyphen"/>ceive some of those Doctrines, yet is there the greatest Reason to receive them, because of Divine Revelation. Which is the foundation of the third discern<g ref="char:EOLhyphen"/>ing Principle, <hi>viz.</hi> Faith proper to the Christian, whose all is subjected unto the Divine Pleasure made known. The O<g ref="char:EOLhyphen"/>bedience of Faith is to submit all to the Lord speaking, as <hi>Simon</hi> letting down the Net at Christ's word, <hi>Luke</hi> 5. 5. o<g ref="char:EOLhyphen"/>beying that <note n="k" place="margin">
+                  <hi>Non hoc tantùm vult, te jubente, sed fretus solo im<g ref="char:EOLhyphen"/>perio tuo, cùm res caetera om<g ref="char:EOLhyphen"/>nes spei nostrae adversentur,</hi> Grot.</note> against all appearances to the contrary. Doctrines repugnant to all, or any of these Principles cannot be true.</p>
+            <p>Fourthly, Anti-magistratical Doctrines are false, contrary to the word of God, and to his Nature, who is a God of Or<g ref="char:EOLhyphen"/>der in the World, as well as in the
+<pb n="9" facs="tcp:33316:6"/> Churches; and hath made Subjection to Superiours a piece of Moral Duty, a breach of which, in rising up against the Magistrate, was so severely punished by the Lord in <hi>Korah, Dathan,</hi> and <hi>Abi<g ref="char:EOLhyphen"/>ram,</hi> Num. 16. for it seems to be the Principality and Ruledom of <hi>Moses,</hi> that they did mostly rise up against, <hi>ver.</hi> 13. the New Testament, is no less express for Subjection to civil Powers than the Old, <hi>Rom. 13. 1, Every soul]</hi> these things are commanded to all, (saith <hi>Chry<g ref="char:EOLhyphen"/>sostom,</hi> on the place) whether Priests, or Monks, and not only to secular Men,—thô thou be an Apostle, thô an Evan<g ref="char:EOLhyphen"/>gelist, thô a Prophet, whoever else thou art: He saith not simply, Obey, but be Subject: thus <hi>Chrysostom.</hi> The Apostle <hi>Peter</hi> accords with his Brother <hi>Paul</hi> here<g ref="char:EOLhyphen"/>in also, 1 <hi>Pet. 13. Submit your selves to every ordinance of man, for the Lord's sake,</hi> i. e. to every Magistrate, or form of Go<g ref="char:EOLhyphen"/>vernment: Not but that Government is an Ordinance of God, and Governours are appointed by God; but it is called
+<pb n="10" facs="tcp:33316:7"/>
+               <hi>(l)</hi> the Creature of Man, because it is <note n="k" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> born by Men, by Men they are chosen, and for the good of Men <note n="m" place="margin">See Gurh. Est B<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z Pisc. in loc.</note> and he adds, every Creature, or Ordinance of Man, to note, That not the Qualities of the Persons, but the Office ought to be regarded; as if he had said, to what<g ref="char:EOLhyphen"/>soever Ruler, whether he be Jew or Gentile, Christian, or Infidel, Good, or Bad <note n="n" place="margin">
+                  <hi>Est Gurh.</hi>
+               </note> Some by Ordinance here un<g ref="char:EOLhyphen"/>derstand every Constitution or Law of Man: but that cannot accord with the Apostles Distribution following, whether to the King as Supream, <hi>&amp;c.</hi> Nor can they shew that the word here render'd Ordinance, is any where so taken: it must be therefore every Magistrate, or Gover<g ref="char:EOLhyphen"/>nour that the Apostle requires subjection to. Subversion of Government, speaking evil of Governours, is contrary to the Genius of the Gospel. Thô it be not now new, but an old Reproach of Sa<g ref="char:EOLhyphen"/>tan to render Christians Odious by such Suggestions, as being contrary to Govern<g ref="char:EOLhyphen"/>ments; yet the Apostles in their, and
+<pb n="11" facs="tcp:33316:7"/> the Primitive Christians in their Times have fully protested against it.</p>
+            <p>Secondly, false Teachers may be known by their Works and Practices. See two or three.</p>
+            <p>First, Deceitful. The Gospel is full of, and highly comamnds Simplicity Plainness, like good Father <hi>Jacob,</hi> Gen. 25. 27. without Welt, or Guard, Guile, or Gall, without Deceit, as the <note n="o" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Greek there like <hi>Nathaniel, Jo.</hi> 1. 47. in whom no Guile. But when Men can turn them<g ref="char:EOLhyphen"/>selves into all shapes, to atchieve their ends, be any thing, do any thing to pro<g ref="char:EOLhyphen"/>mote their Designs; this speaks them not of God. This is that <note n="p" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Significat quandum ad male agendum solertiam, lon<g ref="char:EOLhyphen"/>go usu, &amp; tractandis re<g ref="char:EOLhyphen"/>bus omnibus, quaesitam.</hi>
+               </note> Craftiness which the New Testament condemns, <hi>Luke 20. 23. 1 Cor. 3. 19. 2 Cor. 11. 3. Ephes.</hi> 4 14. This the Apostle puts off from him<g ref="char:EOLhyphen"/>self, and Companions in the Ministry, 2 <hi>Cor.</hi> 4. 2. not walking in Craftiness. The Ministers of Christ hated Legerde<g ref="char:EOLhyphen"/>main, and underhand dealings. They that do evil hate the Light, and love to lurk.</p>
+            <pb n="12" facs="tcp:33316:8"/>
+            <p>Secondly False: speak one thing, and think another, pretend one thing, and intend another. When there is no Truth in Mens Words, or Deeds, <hi>Hos.</hi> 4. 1, 2. No Truth,—by Swearing and Lying. Water-men look one way, and row another, scarce know where ever to find them Children of their Father, the Devil, a Lyar from the beginning; if e<g ref="char:EOLhyphen"/>ver speak Truth, 'tis with a design to de<g ref="char:EOLhyphen"/>ceive. <hi>Doeg</hi> is called a false Tongue, <hi>Psal.</hi> 120. 3. thô he spoke but the Truth against the Lord's Priests, because not for any Love to the Truth, nor for respect to Justice, nor for the bettering either of <hi>Saul,</hi> or the Priests, but only to preju<g ref="char:EOLhyphen"/>dice these, and incense the other. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> hated false ways, <hi>Psal.</hi> 119. 104, 128. so do all whose Hearts are right with God.</p>
+            <p>Thirdly, Bloudy: Satan was first a subtle Lyar, and then a Murderer; so are his Brats. False Teachers are usually full of Cruelty. We have a Law, and by our Law he ought to die. 'Tis they
+<pb n="13" facs="tcp:33316:8"/> that find themselves destitute of the Pow<g ref="char:EOLhyphen"/>er of the word Usually, that cry out for the Violence of the Sword. Not so, the Apostles of Jesus Christ, who were Ten<g ref="char:EOLhyphen"/>der, Compassionate, like Indulgent Fa<g ref="char:EOLhyphen"/>thers to Children, 1 <hi>Thes. 2. 11. Yea to the ignorant and the erring, 2. Tim.</hi> 24. 25, 26. The Church did then thrive best, and spread most when the Secular Arms were against it. Bloudy and deceitful Men are put together more than once in the <hi>Psalms.</hi> Christ's true Ministers de<g ref="char:EOLhyphen"/>sire to commend themselves to Men's Conscience in the Evidence of plain Gospel Truth, as being Weapons Migh<g ref="char:EOLhyphen"/>ty through God, to the pulling down of strong Holds, <hi>&amp;c.</hi> They are false Teach<g ref="char:EOLhyphen"/>ers that are Cruel and Bloudy.</p>
+            <p>The second thing is, How false Teach<g ref="char:EOLhyphen"/>ers come thus to be known by their Fruits? Take this from the Mouth of our Lord, <hi>Mat. 12. 34. Out of the abun<g ref="char:EOLhyphen"/>dance of the heart the mouth speaketh;</hi> and by a parity of Reason it may be extend<g ref="char:EOLhyphen"/>ed to Actions also. The Philosopher
+<pb n="14" facs="tcp:33316:9"/> could say to a Lad, <hi>Speak that I may see thee.</hi> Yet here the constant Frame of the Heart must be intended, not while under some Temptation or Constraint. <hi>David</hi> seems to have exercised some more than common Cruelty towards the <hi>Ammonites,</hi> whilst he lay in the Lether<g ref="char:EOLhyphen"/>gy of his Sin, 2 <hi>Sam.</hi> 12. 31. which at another time, he who had so often for<g ref="char:EOLhyphen"/>given Injuries without Revenge, would not have done. Christ alludes to Trees, as in the Verses before, which are known to be good or bad, not by their Leaves or Flowers, but by their Fruit. Some of the Pharisees argue thus of our Saviour, <hi>Jo.</hi> 9. 16. where the proposition is sound and good, <hi>He that keepeth not the Sabbath, is not of God;</hi> their mistake was in the Assumption.</p>
+            <p>
+               <hi>Ʋse,</hi> What have I done all this while, my Friends, but described the Romish Teachers, especially those of the Jesuiti<g ref="char:EOLhyphen"/>cal Tribe? Is an Egg more like an Egg, than the Predicants of that Synagogue
+<pb n="15" facs="tcp:33316:9"/> like the Teachers deciphered by their Doctrines and Practices? Probably some of you have had occasion of Converse with them in <hi>France,</hi> specially in <hi>Spain</hi> and <hi>Portugal:</hi> But they that have read them, and known them, as we have in <hi>Ireland</hi> these last three or four years, know this too well. I have not time now to make the parallel as it ought, and can only touch on the several Heads.</p>
+            <p>As to the Person of Christ, many of them have been formerly pretty Ortho<g ref="char:EOLhyphen"/>dox; though the Report says that of late the Colledge of <hi>Sorbone</hi> is dangerous<g ref="char:EOLhyphen"/>ly tainted with <hi>Socinianism:</hi> And we know their by-blows among us dash rue<g ref="char:EOLhyphen"/>fully against this Rock.</p>
+            <p>But his Offices, how do they endea<g ref="char:EOLhyphen"/>vour to vacate his Prophetical Office by obtruding their <note n="*" place="margin">
+                  <hi>Traditionts paci pictatis affectu ac reve<g ref="char:EOLhyphen"/>rentid suscipit &amp; veneratur.</hi> Conc. <hi>Trid. Sess.</hi> 4.</note> unwritten Verities and Traditions. His Priest-hood by making it to pass over to others, his Successors contrary to <hi>Heb.</hi> 7. 24. where Christ is
+<pb n="16" facs="tcp:33316:10"/> said to have an <note n="q" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>quod ad alium non demigrat; sive ad alium per successio<g ref="char:EOLhyphen"/>nem non tran<g ref="char:EOLhyphen"/>sit: quasi di<g ref="char:EOLhyphen"/>cas, immigra<g ref="char:EOLhyphen"/>bile, intrans<g ref="char:EOLhyphen"/>fecibile, Hyper. Intransibile, quod ad alium transire nequit, vel in successi<g ref="char:EOLhyphen"/>vum scil. quod successione non transfertur, ficut continge<g ref="char:EOLhyphen"/>bat sacerdotio Levitico,</hi> E<g ref="char:EOLhyphen"/>stius <hi>in loc.</hi>
+               </note> unchangeable Priest<g ref="char:EOLhyphen"/>hood; the word signifieth such a Priest<g ref="char:EOLhyphen"/>hood as cannot pass from him to any o<g ref="char:EOLhyphen"/>ther, as the Priest-hood of <hi>Aaron</hi> did, asserting their Mass a proper Propitiatory Sacrifice for the Living and Dead, con<g ref="char:EOLhyphen"/>trary to <hi>Heb.</hi> 9. 25. 26, 28. and <hi>Chap.</hi> 10. 12, 14. His Kingly Office also, by setting up their <note n="r" place="margin">
+                  <hi>Extr.</hi> Johan. 22. Tit. 14. c. 4. <hi>credere Dominum Deum nostrum Papam—In</hi> Gloss. <hi>ad si<g ref="char:EOLhyphen"/>nem.</hi>
+               </note> Lord God the Pope, as they blasphemously enough call him, and giving him power to disanul <note n="s" place="margin">Caus. 15. q. 6. c. 2. <hi>Auctoritatem in</hi> Gloss. <hi>contra jus naturale potest dis<g ref="char:EOLhyphen"/>pensare, contra Apostolum dispensat.</hi> See too <hi>Caus.</hi> 16. q. 1. c. 44. <hi>quicunque. In</hi> Gloss. <hi>Quomodo Paschalis potuit dare hoc privilegium, cum sit contra praeceptum Divinae Le<g ref="char:EOLhyphen"/>gis? Non est absurdum quod privilegium concedatur quamvis sit contra jus Divinum. Nunquid laico? Dico quod sic.</hi>
+               </note> the Laws of Christ.</p>
+            <p>The Doctrine of free Grace, how much they decry, by decrying up Man's free Will, is known contrary to <hi>Phil.</hi> 2. 13. forgetting <hi>Augustine,</hi> (whom some<g ref="char:EOLhyphen"/>times they boast of,) saying, <hi>Sub laudi<g ref="char:EOLhyphen"/>bus naturalae latent inimici Gratiae,</hi> un<g ref="char:EOLhyphen"/>der the praises of Nature lurk the Ene<g ref="char:EOLhyphen"/>mies of Grace.</p>
+            <pb n="17" facs="tcp:33316:10"/>
+            <p>How they arietate against the condu<g ref="char:EOLhyphen"/>ctive Principles of Men and Christians, who can be ignorant? Would they not perswade us that we are deceived, while we judge that to be Bread and Wine, which all the sound Senses of all Men in the World perceive such <note n="*" place="margin">
+                  <hi>Corpus Chri<g ref="char:EOLhyphen"/>sti verè offerri, immolarique censetur mani<g ref="char:EOLhyphen"/>bus Sacerdotis; corpus non cor<g ref="char:EOLhyphen"/>pus, illocale, invisibile, impalpabile in puncto indivi<g ref="char:EOLhyphen"/>sibili ad mo<g ref="char:EOLhyphen"/>dum spirituum.</hi> Frider. Span<g ref="char:EOLhyphen"/>hem. Fil. In<g ref="char:EOLhyphen"/>trod. ad Hist. Saecul. 10. pag. 996.</note>? VVhether Sense be fallible or infallible, it is certain we have no other Faculties or Organs to perceive immediately sensible things by. I can see by nothing but my Eyes, nor hear by any other way than by my Ears. If they say, we must believe that all Mens Senses are deceived, when God telleth us so: I answer, if we do not pre-suppose that by Sense we must perceive things sensible, it is in vain to talk of God's telling us any thing, or of any of his Revelations, or Faith therein; for I know not but, by Sense, that there is a Bible, or a Man, or a word, or a Voice to be believ'd. As Humanity is presupposed to Christia<g ref="char:EOLhyphen"/>nity, so is Sense and Reason to Faith, and the Objects accordingly. Against Rea<g ref="char:EOLhyphen"/>son also is this their Doctrine; for how
+<pb n="18" facs="tcp:33316:11"/> can the sign and the thing signified be really the same, and at the same time? If it be the very Flesh and Blood of Christ, it is no longer a Sacrament of it. Be<g ref="char:EOLhyphen"/>sides, that the greatest Masters among them cannot agree how it becomes so; <hi>Bellarmine</hi> teacheth, that the substance of the Bread is not turned into the substance of Christ's Body <hi>productivè,</hi> as one thing is made of another; but that the Bread goes away, and Christ's Body cometh in<g ref="char:EOLhyphen"/>to the room of it, <hi>adductivè,</hi> as one succeeds into the place of another, the first being voided; and this, he saith, is the Opinion of the Church of <hi>Rome,</hi> himself being Reader of Controversies at <hi>Rome.</hi> But <hi>Suarez,</hi> Reader at <hi>Sala<g ref="char:EOLhyphen"/>manca</hi> in <hi>Spain,</hi> confutes <hi>Bellarmine</hi>'s Opi<g ref="char:EOLhyphen"/>nion, terming it Translocation, not Tran<g ref="char:EOLhyphen"/>substantiation; and saith, it is not the Churches Opinion: Thus these <hi>Babel-builders</hi> understand not each other. Faith also their Opinion militates against; they say, the very Body of Christ is in the Bread of the Holy Supper: Hence it
+<pb n="19" facs="tcp:33316:11"/> follows, that it is not in Heaven; for it being a Body like unto ours for substance, it cannot be in many places at once: But that Consequent is plainly repugnant to Scripture, <hi>Acts 3. 21. Heb.</hi> 9. 24.</p>
+            <p>How contrary to Government their Doctrines are, might easily be evidenced from their own Books; their subjecting <note place="margin">
+                  <hi>Vide Baronii Annal-passim.</hi>
+               </note> Potentates to the Pope, that he may Ex<g ref="char:EOLhyphen"/>communicate and Depose them, and dis<g ref="char:EOLhyphen"/>pose of their Kingdoms at his pleasure. This determined in the <hi>Lateran</hi> Council, under Pope <hi>Innocent</hi> the Third, about the Year 1215 Pursuant to which, our <note n="t" place="margin">
+                  <hi>Polid. Vir<g ref="char:EOLhyphen"/>gil. lib.</hi> 15.</note> King <hi>John</hi> was Excommunicated by that same Pope, and his Kingdom Interdicted. And our <note n="u" place="margin">
+                  <hi>Camden</hi>'s <hi>Elizah.</hi>
+               </note> Queen <hi>Elizabeth</hi> had Experience of the like favour more than once, and King <hi>James</hi> the First also. What influ<g ref="char:EOLhyphen"/>ence they had into that foulest blot that ever the Protestant Profession lay under since the Reformation, I mean the taking off King <hi>Charles</hi> the First, will one day be made manifest; at least in that last day, when there shall be a Resurrection,
+<pb n="20" facs="tcp:33316:12"/> as of Bodies, so of Names. When both the Houses of Parliament had voted the King's Concessions at the Treaty in the <hi>Isle of Wight</hi> were a sufficient ground for Peace, who turn'd all off the hinges, and by whose Counsels the House of Com<g ref="char:EOLhyphen"/>mons voted, No Message to be received from the King, upon pain of Treason, will then be discovered. And when that Fatal Blow was given, who it was, that as in a way of Triumph, said, <hi>Now is the Enemy of God, and of his Church fal<g ref="char:EOLhyphen"/>len.</hi> Surely no man can produce this as the avowed Doctrine of any Protestant Church, that it is Lawful to rise up a<g ref="char:EOLhyphen"/>gainst a Lawful King, much less, to put him to Death.</p>
+            <p>And for their Works, how full of Craft, Cruelty, and Falshood <note n="†" place="margin">In the Form and Stile of their Sentence condemnatory they pretend a Petition to the Secular Power, <hi>In visceribus Jesu Christi ut rigor juris mi<g ref="char:EOLhyphen"/>tigttur, at{que} ut parcatur vita;</hi> yet how they suck blood is known.</note> they are, we had, as this day, too sad an Evidence; besides, the <hi>Irish</hi> Rebellion in 1641, and the <hi>Parisian</hi> Massacre in 1572. And Men of this Spirit and Principle, how they promoted the Severity on our black <hi>Bar<g ref="char:EOLhyphen"/>tholomew-day</hi> in 1662, wherein more than
+<pb n="21" facs="tcp:33316:12"/> 2000 Ministers were civilly slain in a day, without any regard to their Ministerial Work, or Maintenance for themselves or Families, will one day be brought to light.</p>
+            <p>Yet these are the Men, and this that Profession of Religion, which the Dis<g ref="char:EOLhyphen"/>senters are setting up, and bringing in. A Charge as unseasonable at this day, as unreasonable in it self. What have we done to bring in Popery, but pray'd a<g ref="char:EOLhyphen"/>gainst it, preach'd against it, endeavour'd to settle our People in and upon Princi<g ref="char:EOLhyphen"/>ples destructive of it, and upon all Oc<g ref="char:EOLhyphen"/>casions born our Testimony against it, so far, as that not many years since we were charged with an Excess that was like to spoil all? They that thus calumniate us, if they would give themselves time to think, cannot but know, that some others in the World symbolize with Popery more than we. What have we in Do<g ref="char:EOLhyphen"/>ctrine, in Discipline, in Worship or Walk<g ref="char:EOLhyphen"/>ing, that speaks our accession thereto? Have we declared to the World, that an
+<pb n="22" facs="tcp:33316:13"/> inclination to evil in Men, is a condition of Nature, but no sin properly? con<g ref="char:EOLhyphen"/>trary to the Ninth Article of the Church of <hi>England.</hi> Do we teach, that Man in his corrupt Natural state hath free-will to that which is good, to chuse, and to do it? Contrary to the Tenth Article of the Church of <hi>England.</hi> Have we in our Churches any Popes or Cardinals, any Pa<g ref="char:EOLhyphen"/>triarchs or Primates, any Arch-Prelates or Prelates, any Deans or Arch-Deacons, any Chaunters or Chancellors, or the like Anti-Scriptural Officers? Have we any Courts to punish Men in, that study to be more Holy, and serve and please God better than some of their Neighbours, in which Men may buy out the punishment of their sins? Have we any Priests, properly so called, to offer up Sacrifice for us, and an Altar to offer upon? Have we any Musick, Wind or String, to please the People with? Have we any Candles, or Candlesticks on an Altar? Any Crosses, whether of Wood, Stone, Silver, or in the Air? Do we adore an acknowledged
+<pb n="23" facs="tcp:33316:13"/> piece of Bread, by receiving it on the knee? Contrary to the known practise of the Primitive Churches for some Ages; Praying on the Lord's-days (when surely they communicated in the Lord's Supper) <note n="w" place="margin">
+                  <hi>Ʋnde pri<g ref="char:EOLhyphen"/>ma notio stati<g ref="char:EOLhyphen"/>onum. Et stare, surgere ad Ora<g ref="char:EOLhyphen"/>tionem.</hi>
+               </note> standing, and prayed not <note n="x" place="margin">
+                  <hi>Hinc phra<g ref="char:EOLhyphen"/>sis <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, pro actu adorandi.</hi>
+               </note> kneeling, but in the time of Fasting, in token of Sorrow, Repentance, and great Humili<g ref="char:EOLhyphen"/>ation. Do we encourage the worst of Men in their evil courses, by Prostituting the most tremend Ordinances of Jesus Christ to them, yea, forcing them in their Ignorance and Debaucheries to them; so accounting them, and dealing with them as the best of Christians, if they will but cry up the Church, the Church, the Liturgy, the Prayers? Have we tolerated in our Societies open and notorious Drunkards, Swearers, unclean Persons, and what not, that is filthy? How is it then that we ad<g ref="char:EOLhyphen"/>here to, and are favouring, and bringing in Popery? We confess we dare not pluck the Crown from Princes Heads, nor jostle them out of their Thrones; we dare not deny Peers their Birth-right, nor Commo<g ref="char:EOLhyphen"/>ners
+<pb n="24" facs="tcp:33316:14"/> their liveli-hood, because they fol<g ref="char:EOLhyphen"/>low not us in a way of Worship. In all Instances that beseem the faithful Servants of Jesus Christ, we have, we shall give the firmest Evidences of our abiding close to Protestant Principles.</p>
+            <p>But we have accepted of the Grace offered us in his Majesties Declaration, and thereon have opened our Meetings distinct from the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Novum Crimen,</hi> C. Caesar, <hi>&amp; ante hoc tempus inauditum,</hi> Cic. <hi>pro</hi> Ligar. We have accepted Deliverance from Goales, Confiscations, Fines, harassed by the vi<g ref="char:EOLhyphen"/>lest of Men, and the liberty of the Ex<g ref="char:EOLhyphen"/>ercise of our Ministry, unto which we were called by God and his People; the discharge of which is dearer to us than Liberty or Life; for this, speaking a<g ref="char:EOLhyphen"/>loud, we bless God and the King: If this be our Crime, <hi>Habent conficentes reos;</hi> and we heartily beg of God, that they that reproach us herewith, may never be
+<pb n="25" facs="tcp:33316:14"/> cast into such a state, as to desire, and embrace such a favour.</p>
+            <p>If it be the Interest, as well as Duty, of all Protestants in this day to unite a<g ref="char:EOLhyphen"/>gainst the common Enemy: Let those that have Power, and speak so much of an Establishment by Law, (the Law of the <note n="y" place="margin">Qu. <hi>Whe<g ref="char:EOLhyphen"/>ther the Church of</hi> England <hi>were not Esta<g ref="char:EOLhyphen"/>blished in Po<g ref="char:EOLhyphen"/>pery, and so a Popish Church by Law?</hi>
+               </note> Land, they mean not of Christ,) restore the species of a Church of Christ's, and his Apostles Institution, in which the Christians walked for the two first Centuries; let them preach the Doctrine of the Articles of the Church, as under<g ref="char:EOLhyphen"/>stood by them that formed them, and of their grave Prelates and Divines in the days of Q. <hi>Elizabeth,</hi> and K. <hi>James</hi> the 1st. let them reform their Congregations, and especially their Ministers, and not en<g ref="char:EOLhyphen"/>joyn on us as Terms of Communion, what they acknowledge but indifferentin them<g ref="char:EOLhyphen"/>selves, we profess would be sinful to us, and they will soon have few Dissenters in <hi>England.</hi> I speak for my self, yet have some presumption that I speak the sense of
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:33316:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:33316:15"/>
+               <pb n="26" facs="tcp:33316:16"/> some thousands of my Brethren in the three Kingdoms. But if we may have no Peace with them, unless we debauch our Consciences with the Conformity which they require, we must beg their Excuse, we are otherwise perswaded in our Minds, after a deliberate Examination: We <note n="z" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ephes. 4. 20. <hi>Ita distinxit</hi> Beza, <hi>&amp; post<g ref="char:EOLunhyphen"/>tum</hi> Gatak. cin. <hi>l. 1. c. 3. p.</hi> 26.</note> have learned Christ, we dare not do thus.</p>
+            <p>However, thô they exclude us, we will embrace them, thô they persecute us, we will pray for them, thô they will not love us, we will love them, thô they will not that we should love them; yet whether our selves will or no, we will love them, and so fulfil the Law of Christ.</p>
+            <p>To return then from this Digression, and to an end of this Discourse; beware of <hi>False Teachers,</hi> be not deceived, that ye be not destroyed by them. What<g ref="char:EOLhyphen"/>ever pretences they have of Piety, Anti<g ref="char:EOLhyphen"/>quity, Universality, <hi>&amp;c.</hi> within they are
+<pb n="27" facs="tcp:33316:16"/> ravening Wolves. I will take my leave of you at this time, in the words of Dr. <hi>Tho. Holland,</hi> sometime <hi>Regius</hi> Professor in <hi>Oxon,</hi> and Rector of <hi>Exeter</hi> Colledge there, when he went any Journey, cal<g ref="char:EOLhyphen"/>ling the Fellows together, he used to say, <note place="margin">
+                  <hi>Commendo vos, dilectioni Dei &amp; odio papa<g ref="char:EOLhyphen"/>tus &amp; supersti<g ref="char:EOLhyphen"/>tionis,</hi> Clark <hi>in his Life.</hi>
+               </note>
+               <hi>I commend you to the Love of God, and Ha<g ref="char:EOLhyphen"/>tred of Popery and Superstition.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
